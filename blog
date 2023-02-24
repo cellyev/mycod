@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="baru1.css">
+        <title>EV'S PROJECT</title>
+    </head>
+
+    <body>
+
+        <div class="bush">
+            <a href=""><h1>EV'S PROJECT</h1></a>
+                <div class="footer">
+                    <footer>
+                        <ul>
+                            <a href="https://www.instagram.com/exc_v9/"><img src="ig.png"></a>
+                            <a href="https://api.whatsapp.com/send?phone=628990093005"><img src="wa.png"></a>
+                            <a href="https://twitter.com/valexctino"><img src="twitter.png"></a>
+                            <a href="https://web.telegram.org/k/#@Plagbanget"><img src="tele.png"></a>
+                        </ul>
+                    </footer>
+                </div>
+        </div>
+
+        <div class="container">
+            <div class="row">
+                <nav>
+                    <ul>
+                        <a href="about me.html"><p>about me</p></a>
+                        <a href=""><p>blog</p></a>
+                        <a href=""><p>work</p></a>
+                        <a href=""><p>motivate</p></a>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+
+        <div class="content">
+            <h2>HI!</h2>
+            <h3>Welcome to my website!</h3>
+            <h4>Stay tune!</h4>
+        </div>
+
+    </body>
+</html><!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="baru1.css">
+        <title>EV'S PROJECT</title>
+    </head>
+
+    <body>
+
+        <div class="bush">
+            <a href=""><h1>EV'S PROJECT</h1></a>
+                <div class="footer">
+                    <footer>
+                        <ul>
+                            <a href="https://www.instagram.com/exc_v9/"><img src="ig.png"></a>
+                            <a href="https://api.whatsapp.com/send?phone=628990093005"><img src="wa.png"></a>
+                            <a href="https://twitter.com/valexctino"><img src="twitter.png"></a>
+                            <a href="https://web.telegram.org/k/#@Plagbanget"><img src="tele.png"></a>
+                        </ul>
+                    </footer>
+                </div>
+        </div>
+
+        <div class="container">
+            <div class="row">
+                <nav>
+                    <ul>
+                        <a href="about me.html"><p>about me</p></a>
+                        <a href=""><p>blog</p></a>
+                        <a href=""><p>work</p></a>
+                        <a href=""><p>motivate</p></a>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+
+        <div class="content">
+            <h2>HI!</h2>
+            <h3>Welcome to my website!</h3>
+            <h4>Stay tune!</h4>
+        </div>
+
+    </body>
+</html>
